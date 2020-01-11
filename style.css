@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#conteneur {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.blocgauche {
+    background-color: #1B628E;
+    height: 139.5em;
+    width: 35em;
+}
+
+.blocdroit {
+    background-color: rgb(255, 255, 255);
+    height: 100em;
+    width: 100em;
+}
+
+.margegauche {
+    margin-top: 3em;
+}
+
+.margedroite {
+    margin: 5em 0em 0em 0em;
+}
+
+.bleu {
+    color: #1B628E;
+}
+
+#photoprofil {
+    width: 50%;
+    border-radius: 150%;
+    margin: 2em 2em 0em 2em;
+}
+
+.center {
+    text-align: center;
+}
+
+hr {
+    width: 30em;
+}
+
+.blanc {
+    color: white;
+}
+
+.noir {
+    color: black;
+}
+
+.image {
+    width:40px;
+    padding-right:0.5em;
+}
+
+i {
+    font-size: x-large;
+}
+
+.bordure {
+    border: 1.5px black solid;
+    margin: 0em 2em 2em 2em;
+    padding: 1em 1em 1em 1em;
+    box-shadow: 3px 3px 2px black;
+}
+
+.gris {
+    color: #2c2929;
+}
+
+li {
+    margin: 0em 18em 0em 18em;
+    color: #2c2929;
+}
+
+.bouton {
+    margin: 3em 0em 0em 60em;
+}
